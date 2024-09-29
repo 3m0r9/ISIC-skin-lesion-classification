@@ -57,7 +57,7 @@ The dataset used in this project is the **ISIC Skin Lesion Dataset**, widely use
 | VGG16 (Fine-tuned)  | 0.6517   | -      | -    | -     |
 | VGG19 (Fine-tuned)  | 0.6296   | -      | -    | -    |
 | ResNet50 (Fine-tuned)| 0.5083  | -      | -    | -    |
-| MobileNetV2         | 0.89     | 0.88      | 0.87    | 0.87     |
+
 
 
 
