@@ -46,6 +46,20 @@ The dataset used in this project is the **ISIC Skin Lesion Dataset**, widely use
    - **Test Set**: 15% of the data
 
 
+## 6. Results and Analysis
+
+### Model Performance Summary
+
+| Model             | Accuracy | Precision | Recall  | F1-Score |
+|-------------------|----------|-----------|---------|----------|
+| EfficientNetB2 | 0.7886     | 0.7868      | 0.7886    | 0.7862     |
+| CNN (Custom)        | 0.82     | 0.79      | 0.80    | 0.79     |
+| VGG16 (Fine-tuned)  | 0.88     | 0.87      | 0.86    | 0.86     |
+| ResNet50 (Fine-tuned)| 0.5083  | -      | -    | -    |
+| MobileNetV2         | 0.89     | 0.88      | 0.87    | 0.87     |
+
+
+
 ## 10. Let's Connect
 
 - **GitHub** - [3m0r9](https://github.com/3m0r9)
